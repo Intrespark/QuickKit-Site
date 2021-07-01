@@ -1,6 +1,52 @@
-  
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 body {
-  background-color: black;
+  background-image: linear-gradient(to right, #3617AD, #4C3260);
   color: white;
-  text-align: center;
+  font-family: 'Inter', sans-serif;
+
+}
+
+
+.row {
+  margin: 0;
+}
+
+.main {
+  padding: 5rem 0 0 0;
+}
+
+.info {
+  margin: 6rem 0 0 0;
+}
+
+h1 {
+  font-weight: 600;
+  font-size: 4rem;
+  color: #d5d2d6
+
+}
+
+h2 {
+  margin-top: 1rem;
+  color: #A9A4AD
+}
+
+.socials {
+  color: #A9A4AD;
+  margin-top: 3rem;
+}
+
+.fa-2x {
+  padding: 0 10px 0 0
+}
+
+a {
+  text-decoration: none !important;
+  color: #A9A4AD;
+
+}
+
+a:hover {
+  color: #A9A4AD;
+
 }
